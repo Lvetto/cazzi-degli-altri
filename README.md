@@ -1,5 +1,5 @@
 # Cazzi-degli-altri
-Un programmino in python per aiutare a farsi i cazzi degli altri.
+Un programmino in python per aiutare a farsi i cazzi degli altri. Usa un file con nomi e numeri di matricola per permettere di tradurre rapidamente uno nell'altro.
 
 # Istruzioni
 Eseguire il programma con python3 e seguire le indicazioni sullo schermo.
