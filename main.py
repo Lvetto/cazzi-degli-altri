@@ -19,7 +19,7 @@ while True:
             pass
         else:
             with open("matricole.json", "w") as file:
-                mat_list += [[t[1] + " " + t[2], t[3]]]
+                mat_list += [[(t[1] + " " + t[2]).lower(), t[3]]]
                 json.dump(mat_list, file)
     
     elif (t[0] == "esci"):
